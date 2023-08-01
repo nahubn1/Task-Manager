@@ -1,0 +1,8 @@
+The objective of this project is to create the Task Manager application.
+  * Create a class representing a task with the above properties
+  * Create a class that manages tasks, which should include methods to:
+The application should allow users to:
+  * Add a new task
+  * View all tasks
+  * View only completed tasks
+  * View only pending tasks
